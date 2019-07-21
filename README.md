@@ -1,2 +1,2 @@
-# demo-git-trianing
-just for the traning
+# A read me file for git training
+It's a good training yay 
